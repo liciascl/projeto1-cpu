@@ -1,4 +1,4 @@
-// Versão sequencial do tx_client enviando blocos via socket (sem sleep)
+// Versão sequencial do tx_client enviando blocos via socket 
 #include <iostream>
 #include <sstream>
 #include <vector>
