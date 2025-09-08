@@ -1,0 +1,27 @@
+[INFO] Rodando em compute20
+[INFO] Iniciando minerador
+[INFO] Aguardando porta 8080...
+[INFO] Porta 8080 disponível.
+[INFO] Iniciando gerador de transações
+[TXGEN] Iniciando gerador de transações (sequencial, sem pausa): 40 blocos, 35 transações/bloco
+[TXGEN] Bloco 0 enviado com 35 transações.
+[TXGEN] Bloco 1 enviado com 35 transações.
+[TXGEN] Bloco 2 enviado com 35 transações.
+[TXGEN] Bloco 3 enviado com 35 transações.
+[TXGEN] Bloco 4 enviado com 35 transações.
+[TXGEN] Bloco 5 enviado com 35 transações.
+[TXGEN] Bloco 6 enviado com 35 transações.
+[TXGEN] Bloco 7 enviado com 35 transações.
+[TXGEN] Bloco 8 enviado com 35 transações.
+[TXGEN] Bloco 9 enviado com 35 transações.
+[TXGEN] Bloco 10 enviado com 35 transações.
+[TXGEN] Bloco 11 enviado com 35 transações.
+[TXGEN] Bloco 12 enviado com 35 transações.
+[TXGEN] Bloco 13 enviado com 35 transações.
+[TXGEN] Bloco 14 enviado com 35 transações.
+[TXGEN] Bloco 15 enviado com 35 transações.
+[TXGEN] Bloco 16 enviado com 35 transações.
+[TXGEN] Bloco 17 enviado com 35 transações.
+[ERRO] Conexão falhou
+[ERRO] Conexão falhou
+[ERRO] Conexão falhou
